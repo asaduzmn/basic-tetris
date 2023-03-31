@@ -1,0 +1,4 @@
+An important note {An ID is specific to a single element, on the other hand classes can be assigned to multiple elements throughout the website.}
+features:
+there will be a score card
+score, button for starting the game,
